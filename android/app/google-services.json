@@ -1,64 +1,41 @@
 {
   "project_info": {
-    "project_number": "614936873905",
-    "firebase_url": "https://markets-63cda.firebaseio.com",
-    "project_id": "markets-63cda",
-    "storage_bucket": "markets-63cda.appspot.com"
+    "project_number": "35592456630",
+    "project_id": "reader-s-guide",
+    "storage_bucket": "reader-s-guide.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:614936873905:android:39b6d2c889e64b5e690b90",
+        "mobilesdk_app_id": "1:35592456630:android:6870e8c37bfed7a1795917",
         "android_client_info": {
-          "package_name": "com.smartersvision.markets"
+          "package_name": "com.bookshop.jo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "614936873905-nubnd278nt9cmd637ccbq3il5cqkpo5f.apps.googleusercontent.com",
+          "client_id": "35592456630-b4v9ofjhuq0vbhjl9tn1r40dred96sab.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCaI_GBK7ukn75RVW8zfLZ2CFF9BSkKVWI"
+          "current_key": "AIzaSyATOxvtw1viiqWGpVQN9XstMDEiIueqtis"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "614936873905-nubnd278nt9cmd637ccbq3il5cqkpo5f.apps.googleusercontent.com",
+              "client_id": "35592456630-b4v9ofjhuq0vbhjl9tn1r40dred96sab.apps.googleusercontent.com",
               "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:614936873905:android:a769e75a128e628f690b90",
-        "android_client_info": {
-          "package_name": "com.smartersvision.markets_driver"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "614936873905-nubnd278nt9cmd637ccbq3il5cqkpo5f.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCaI_GBK7ukn75RVW8zfLZ2CFF9BSkKVWI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
+            },
             {
-              "client_id": "614936873905-nubnd278nt9cmd637ccbq3il5cqkpo5f.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "35592456630-ipl9g2nvvvtevgi3otu2us8l6e0g0le6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bookshop.jo"
+              }
             }
           ]
         }

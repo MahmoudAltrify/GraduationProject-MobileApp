@@ -1,4 +1,4 @@
-package com.smartersvision.markets
+package com.bookshop.jo
 
 import io.flutter.embedding.android.FlutterActivity;
 
